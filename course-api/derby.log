@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sun Jul 26 10:16:22 IST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-8971-7aaf-000004872d28 
-on database directory memory:C:\Users\rsrip\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\course-api\2a32b2c3-a1fe-4926-a5a6-2a3178370f52 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Sun Jul 26 11:38:06 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-89bc-4ddd-0000046fd720 
+on database directory memory:C:\GIT\Course-App\course-api\eac30a7d-2042-4d68-89f6-29bc23ba282d with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
 Loaded from file:/C:/Users/rsrip/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_261-b12
-user.dir=C:\Users\rsrip\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\course-api
+user.dir=C:\GIT\Course-App\course-api
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
